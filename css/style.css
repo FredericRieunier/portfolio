@@ -337,7 +337,6 @@ footer{
   border-radius: 0.9rem;
   box-shadow: 0.4rem 0.4rem 0.4rem rgb(99, 99, 99);
   max-width: 90%;
-  height: 80%;
   width: 80%;
   transition: 1s;
 }
