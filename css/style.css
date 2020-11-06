@@ -336,7 +336,6 @@ footer{
 .pictureBox img {
   border-radius: 0.9rem;
   box-shadow: 0.4rem 0.4rem 0.4rem rgb(99, 99, 99);
-  max-width: 90%;
   width: 80%;
   transition: 1s;
 }
@@ -344,7 +343,6 @@ footer{
 /* Effet de dézoom au survol */
 
 .pictureBox img:hover {
-  height: 75%;
   width: 75%;
 }
 
