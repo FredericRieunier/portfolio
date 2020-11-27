@@ -337,13 +337,13 @@ footer{
   border-radius: 0.9rem;
   box-shadow: 0.4rem 0.4rem 0.4rem rgb(99, 99, 99);
   width: 80%;
-  transition: 1s;
+  transition: .5s;
 }
 
 /* Effet de dézoom au survol */
 
 .pictureBox img:hover {
-  width: 75%;
+  width: 78%;
 }
 
 .lastParagraph {

@@ -8,54 +8,24 @@
 
 
 <url>
-  <loc>http://freddevtest.alwaysdata.net/</loc>
-  <lastmod>2020-10-15T18:45:36+00:00</lastmod>
+  <loc>https://fredericrieunier.fr/</loc>
+  <lastmod>2020-11-06T21:20:51+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://freddevtest.alwaysdata.net/index.html</loc>
-  <lastmod>2020-10-15T18:45:36+00:00</lastmod>
+  <loc>https://fredericrieunier.fr/index.html</loc>
+  <lastmod>2020-11-06T21:20:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://freddevtest.alwaysdata.net/cv.html</loc>
-  <lastmod>2020-10-15T18:45:36+00:00</lastmod>
+  <loc>https://fredericrieunier.fr/cv.html</loc>
+  <lastmod>2020-11-06T21:21:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://freddevtest.alwaysdata.net/contact.html</loc>
-  <lastmod>2020-10-15T18:45:36+00:00</lastmod>
+  <loc>https://fredericrieunier.fr/contact.html</loc>
+  <lastmod>2020-11-06T22:23:08+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://freddevtest.alwaysdata.net/lamoune/index.html</loc>
-  <lastmod>2020-10-10T06:06:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://freddevtest.alwaysdata.net/lamoune/creation-essuie-tout.html</loc>
-  <lastmod>2020-10-10T06:06:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://freddevtest.alwaysdata.net/lamoune/creation-demaquillettes.html</loc>
-  <lastmod>2020-10-10T06:06:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://freddevtest.alwaysdata.net/lamoune/creation-sacs-lavage.html</loc>
-  <lastmod>2020-10-10T06:06:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://freddevtest.alwaysdata.net/lamoune/a-propos.html</loc>
-  <lastmod>2020-10-10T06:06:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://freddevtest.alwaysdata.net/lamoune/contact.html</loc>
-  <lastmod>2020-10-10T06:06:24+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 
 

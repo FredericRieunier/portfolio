@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://freddevtest.alwaysdata.net/sitemap.xml
+Sitemap: https://fredericrieunier.fr/sitemap.xml
